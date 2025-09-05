@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: e55a1a6fb99cf0844a23ee6cf0ea8ea6
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _laminate_floor_02_nor_dx_2k: {fileID: 2800000, guid: b3384f58abfc9a04ebc965d40d537aae, type: 3}
+  - _laminate_floor_02_diff_2k: {fileID: 2800000, guid: b8d1bb73c3724154e832334b8bb12ccd, type: 3}
+  - _laminate_floor_02_rough_2k: {fileID: 2800000, guid: 4ee7ced57e01a5e4fb3d53543aabc4c8, type: 3}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
